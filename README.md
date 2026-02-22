@@ -5,7 +5,8 @@ add it before while loop in cube IDE
 [!NOTE]bpm_init_calibration(void)
 
 add this in while loop in cube IDE 
-[!NOTE]bpm_read_data(void)
+> [!NOTE]
+> bpm_read_data(void)
 
 this store the temprature  data from Bmp280
 [!NOTE]true_data.temp
